@@ -36,7 +36,7 @@ describe("Authentications", () => {
         })
     })
 
-    const token = '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'
+    const token = 'ghp_pfEbzmLTTeZZdCzITSusLYur4dpnu022ZxvB'
     it('Bearer Authentications', () => {
         cy.request({
             method: 'GET',
